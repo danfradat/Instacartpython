@@ -18,6 +18,5 @@ Departments
 Project Management: Contains the Project Brief.
 Data: Separated into Original and Prepared Data. 
 Sripts: Contains the Python coding involved for the analysis.
-Analysis: Contains visualisations used for developing insights and presenting on the final report
-Sent to client: Contains final report
-
+Analysis: Contains visualisations used for developing insights and presenting on the final report.
+Sent to client: Contains final report.
